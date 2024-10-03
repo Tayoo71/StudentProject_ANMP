@@ -15,3 +15,21 @@ data class Student(
     @SerializedName("photo_url")
     var photoUrl:String?
 ) : Parcelable
+
+
+data class Car(
+    val id: Int,
+    val make: String,
+    val model: String,
+    val year: Int,
+    val color: String,
+    val price: Int,
+    val features: List<String>,
+    val specs: CarSpecifications
+)
+
+data class CarSpecifications(
+    val engine: String,
+    val transmission: String,
+    val fuel_type: String
+)
