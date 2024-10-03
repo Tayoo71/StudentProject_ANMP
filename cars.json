@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2022,
+    "color": "Silver",
+    "price": 25000,
+    "features": ["Bluetooth", "Backup Camera", "Keyless Entry"],
+    "specs": {
+      "engine": "2.5L 4-cylinder",
+      "transmission": "Automatic",
+      "fuel_type": "Gasoline"
+    }
+  },
+  {
+    "id": 2,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "color": "Blue",
+    "price": 22000,
+    "features": ["Apple CarPlay", "Android Auto", "Lane Departure Warning"],
+    "specs": {
+      "engine": "1.5L 4-cylinder",
+      "transmission": "CVT",
+      "fuel_type": "Gasoline"
+    }
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2023,
+    "color": "Red",
+    "price": 40000,
+    "features": ["Leather Seats", "Performance Package", "Navigation System"],
+    "specs": {
+      "engine": "5.0L V8",
+      "transmission": "Manual",
+      "fuel_type": "Gasoline"
+    }
+  },
+  {
+    "id": 4,
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "year": 2020,
+    "color": "Black",
+    "price": 28000,
+    "features": ["Remote Start", "Sunroof", "Blind Spot Monitoring"],
+    "specs": {
+      "engine": "1.5L 4-cylinder",
+      "transmission": "Automatic",
+      "fuel_type": "Gasoline"
+    }
+  },
+  {
+    "id": 5,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2022,
+    "color": "White",
+    "price": 23000,
+    "features": ["ProPILOT Assist", "Push Button Start", "Dual-Zone Climate Control"],
+    "specs": {
+      "engine": "2.5L 4-cylinder",
+      "transmission": "CVT",
+      "fuel_type": "Gasoline"
+    }
+  },
+  {
+    "id": 6,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2023,
+    "color": "Gray",
+    "price": 60000,
+    "features": ["Panoramic Moonroof", "Harman Kardon Sound System", "Heated Seats"],
+    "specs": {
+      "engine": "3.0L Inline-6",
+      "transmission": "Automatic",
+      "fuel_type": "Diesel"
+    }
+  },
+  {
+    "id": 7,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2021,
+    "color": "Silver",
+    "price": 21000,
+    "features": ["Forward Collision Avoidance Assist", "Smart Cruise Control", "Wireless Charging"],
+    "specs": {
+      "engine": "2.0L 4-cylinder",
+      "transmission": "CVT",
+      "fuel_type": "Gasoline"
+    }
+  },
+  {
+    "id": 8,
+    "make": "Audi",
+    "model": "A4",
+    "year": 2022,
+    "color": "Blue",
+    "price": 45000,
+    "features": ["Virtual Cockpit", "Quattro All-Wheel Drive", "Matrix LED Headlights"],
+    "specs": {
+      "engine": "2.0L 4-cylinder",
+      "transmission": "Automatic",
+      "fuel_type": "Gasoline"
+    }
+  },
+  {
+    "id": 9,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2023,
+    "color": "Black",
+    "price": 65000,
+    "features": ["MBUX Infotainment System", "Adaptive Cruise Control", "Heated Steering Wheel"],
+    "specs": {
+      "engine": "3.0L Inline-6",
+      "transmission": "Automatic",
+      "fuel_type": "Gasoline"
+    }
+  },
+  {
+    "id": 10,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": 2022,
+    "color": "Green",
+    "price": 32000,
+    "features": ["4x4 Capability", "Uconnect 4C Infotainment System", "Trail Rated"],
+    "specs": {
+      "engine": "3.2L V6",
+      "transmission": "Automatic",
+      "fuel_type": "Gasoline"
+    }
+  }
+]
